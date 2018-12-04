@@ -7,6 +7,7 @@ import javax.swing.JTextField;
 /**
  * @author damilolaaigoro
  */
+
 public class CustomSelect extends javax.swing.JFrame {
     
     private int product_type_array_index = 0;
